@@ -1,0 +1,1 @@
+postgresql://readonly_user:X2%24mP9%23qL7%40fK3@ep-little-frost-a2t9gkqe-pooler.eu-central-1.aws.neon.tech/carsharing?sslmode=require

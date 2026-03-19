@@ -7,4 +7,5 @@ you can clone this repository into your own github account, use Github codespace
 Data we used in this project is from a public data set TBD
 
 # License
-The software is provided under MLT License  
+The software is provided under MLT License.
+ 
